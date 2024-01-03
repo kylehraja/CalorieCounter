@@ -1,7 +1,7 @@
 # Calorie Counter
 A Calorie Counter project that calculates how many calories the user has consumed, comparing it to their calorie budget/goal. 
 
-In this project, we validate user input, perform calculations based on that input, and dynamically update your interface to display the results.
+In this project, I validate user input, perform calculations based on that input, and dynamically update your interface to display the results.
 Basic regular expressions, template literals, the addEventListener() method, and more are used.
 
 Overview
