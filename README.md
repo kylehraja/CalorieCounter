@@ -10,3 +10,8 @@ Overview
 ![image](https://github.com/kylehraja/CalorieCounter/assets/140476247/d6099110-1b54-422a-9d60-bde6e0826d14)
 
 ![image](https://github.com/kylehraja/CalorieCounter/assets/140476247/7d1b4ba0-f89e-48e4-9fb4-ed6846b33345)
+
+How to run project:
+
+1) Download and open the index.html, styles.css, and script.js in VS Code
+2) Run index.html using Chrome (or another browser), whatever extenstion you prefer. 
